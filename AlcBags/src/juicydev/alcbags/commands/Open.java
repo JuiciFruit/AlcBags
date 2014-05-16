@@ -12,6 +12,9 @@ import juicydev.jcore.utils.MessageManager;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
+/**
+ * @author JuicyDev
+ */
 public class Open extends SubCommand {
 
 	private MessageManager mm = AlcBagsMessageManager.getInstance();

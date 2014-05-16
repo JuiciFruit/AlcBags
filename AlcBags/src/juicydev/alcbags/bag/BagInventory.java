@@ -8,6 +8,9 @@ import juicydev.alcbags.util.BagUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.inventory.Inventory;
 
+/**
+ * @author JuicyDev
+ */
 public class BagInventory {
 
 	private int bagSize = 54;

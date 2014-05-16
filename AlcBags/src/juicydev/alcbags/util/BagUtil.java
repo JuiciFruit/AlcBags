@@ -8,6 +8,9 @@ import org.bukkit.DyeColor;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
+/**
+ * @author JuicyDev
+ */
 public class BagUtil {
 
 	private static String bagCode = ChatColor.AQUA.toString()

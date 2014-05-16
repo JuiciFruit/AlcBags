@@ -15,6 +15,9 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
+/**
+ * @author JuicyDev
+ */
 public class AlcBags extends JavaPlugin {
 
 	private static AlcBags instance;

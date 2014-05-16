@@ -2,6 +2,9 @@ package juicydev.alcbags.commands;
 
 import org.bukkit.command.CommandSender;
 
+/**
+ * @author JuicyDev
+ */
 public abstract class SubCommand {
 
 	/**

@@ -20,6 +20,9 @@ import org.bukkit.entity.Player;
 
 import com.google.common.base.Joiner;
 
+/**
+ * @author JuicyDev
+ */
 public class CommandManager implements CommandExecutor, TabCompleter {
 
 	private static CommandManager instance = new CommandManager();

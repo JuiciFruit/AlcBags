@@ -8,6 +8,9 @@ import juicydev.alcbags.util.Perms;
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;
 
+/**
+ * @author JuicyDev
+ */
 public class List extends SubCommand {
 
 	public void onCommand(CommandSender sender, String[] args) {

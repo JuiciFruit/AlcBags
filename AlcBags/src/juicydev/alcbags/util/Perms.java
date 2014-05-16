@@ -7,6 +7,9 @@ import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.permissions.Permission;
 import org.bukkit.permissions.PermissionDefault;
 
+/**
+ * @author JuicyDev
+ */
 public enum Perms {
 	HELP(newPerm("help", "Allows the player to use the \"/alcbags help\" command.",
 			PermissionDefault.TRUE)),

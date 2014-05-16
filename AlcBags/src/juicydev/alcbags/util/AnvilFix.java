@@ -5,6 +5,9 @@ import org.bukkit.inventory.InventoryView;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.scheduler.BukkitRunnable;
 
+/**
+ * @author JuicyDev
+ */
 public class AnvilFix extends BukkitRunnable {
 
 	private InventoryView view;

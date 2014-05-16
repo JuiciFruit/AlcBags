@@ -2,7 +2,7 @@ author: JuicyDev
 description: Alchemy bag plugin (based off of equivilant exchange)
 main: juicydev.alcbags.AlcBags
 name: AlcBags
-version: '1.0'
+version: '1.1'
 softdepend: [JCore]
 commands:
     alcbags:

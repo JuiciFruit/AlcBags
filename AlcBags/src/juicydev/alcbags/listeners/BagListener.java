@@ -27,6 +27,9 @@ import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.inventory.AnvilInventory;
 import org.bukkit.inventory.ItemStack;
 
+/**
+ * @author JuicyDev
+ */
 public class BagListener implements Listener {
 
 	private MessageManager mm = AlcBagsMessageManager.getInstance();

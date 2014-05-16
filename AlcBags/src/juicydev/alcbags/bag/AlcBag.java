@@ -8,6 +8,9 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.material.MaterialData;
 
+/**
+ * @author JuicyDev
+ */
 public class AlcBag extends ItemStack {
 
 	private DyeColorRef colour;

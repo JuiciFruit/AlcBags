@@ -6,6 +6,9 @@ import juicydev.jcore.utils.MessageManager;
 
 import org.bukkit.command.CommandSender;
 
+/**
+ * @author JuicyDev
+ */
 public class Help extends SubCommand {
 
 	private MessageManager mm = AlcBagsMessageManager.getInstance();

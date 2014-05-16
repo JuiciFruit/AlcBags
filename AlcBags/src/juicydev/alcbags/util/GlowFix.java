@@ -6,6 +6,9 @@ import org.bukkit.inventory.InventoryView;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.scheduler.BukkitRunnable;
 
+/**
+ * @author JuicyDev
+ */
 public class GlowFix extends BukkitRunnable {
 
 	private InventoryView view;

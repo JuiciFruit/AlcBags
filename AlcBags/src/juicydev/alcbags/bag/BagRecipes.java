@@ -9,6 +9,9 @@ import org.bukkit.Material;
 import org.bukkit.inventory.ShapedRecipe;
 import org.bukkit.material.MaterialData;
 
+/**
+ * @author JuicyDev
+ */
 public class BagRecipes {
 
 	@SuppressWarnings("deprecation")
