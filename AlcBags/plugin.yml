@@ -1,0 +1,10 @@
+author: JuicyDev
+description: Alchemy bag plugin (based off of equivilant exchange)
+main: juicydev.alcbags.AlcBags
+name: AlcBags
+version: '1.0'
+softdepend: [JCore]
+commands:
+    alcbags:
+        aliases: [alcbag]
+        descriptions: Base alcbags command.
